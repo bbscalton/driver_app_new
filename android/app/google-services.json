@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009368621016",
+    "project_id": "driverapp-5e4c8",
+    "storage_bucket": "driverapp-5e4c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009368621016:android:ad20400d4f51e02cdadcad",
+        "android_client_info": {
+          "package_name": "com.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkij33DSv3XowQY3WY3rz8_BvzEVuZAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
